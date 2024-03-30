@@ -12,6 +12,8 @@ The project extracts the following demographic information for each country:
 - Currencies
 - Population
 
+![alt text](img/image.png)
+
 # Installation
 
 `git clone git@github.com:ruizdani301/api_export_to-excel.git`
